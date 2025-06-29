@@ -14,6 +14,11 @@
 <a href="https://linkedin.com/in/yba-siddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yba-siddiq" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti-Hacking Animation" width="400"/>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
