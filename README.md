@@ -110,9 +110,5 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRsYzhwdGFob2RrMGpzYXR1dmN6d2hzNDFwcmNpM3I1cW05cXZyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" alt="coding gif" width="400"/>
-
-
 </p>
 
