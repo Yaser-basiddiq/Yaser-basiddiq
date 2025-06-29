@@ -1,3 +1,5 @@
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRsYzhwdGFob2RrMGpzYXR1dmN6d2hzNDFwcmNpM3I1cW05cXZyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif
+
 <h1 align="center">Hi 👋, I'm Yaser Ba-Siddiq</h1>
 <h3 align="center">A Computer Scientist 💻</h3>
 
