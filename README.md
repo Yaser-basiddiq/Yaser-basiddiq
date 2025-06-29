@@ -92,6 +92,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
   <br/>
+  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti-Hacking Animation" width="400"/>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
@@ -113,7 +114,5 @@
 </p>
 
 
-<p align="center">
-  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti-Hacking Animation" width="400"/>
-</p>
+
 
