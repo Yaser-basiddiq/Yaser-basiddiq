@@ -112,3 +112,8 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Anti-Hacking Animation" width="400"/>
+</p>
+
