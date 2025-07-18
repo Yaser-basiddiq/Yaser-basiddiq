@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser-basiddiq&label=Profile%20views&color=0e75b6&style=flat" alt="yaser-basiddiq" /> </p>
 
-• 👨‍💻 I’m a 22-year-old Cybersecurity and Computer Science graduate based in Chicago. My journey began experimenting with DDoS attacks as a young developer, just to see how systems responded under pressure. That led me to learn how to defend those same systems, diving deep into server hardening, firewalls, and real-time protection. Over time, I shifted my focus toward cybersecurity, exploring everything from ethical hacking to secure application design. I’m currently expanding my skills in cloud security, AI automation, and real-world threat analysis, while still experimenting with new technologies that catch my interest.
+• 👨‍💻 I’m a Cybersecurity and Computer Science graduate based in Chicago. My journey began experimenting with DDoS attacks as a young developer, just to see how systems responded under pressure. That led me to learn how to defend those same systems, diving deep into server hardening, firewalls, and real-time protection. Over time, I shifted my focus toward cybersecurity, exploring everything from ethical hacking to secure application design. I’m currently expanding my skills in cloud security, AI automation, and real-world threat analysis, while still experimenting with new technologies that catch my interest.
 
 • 🔭 I’m currently working on **strengthening my cloud security skills, exploring ethical hacking labs, and building secure full stack applications with modern tech stacks.**
 
